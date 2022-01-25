@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Friendship Zone Registration</title>
+</head>
+<body>
+  <header>
+    <h1>Friendship Zone</h1>
+  </header>
+  <main>
+    <form method="post">
+      <label for="name">
+        Name:
+        <input id="name" name="name" type="text" placeholder="Enter your name" required>
+      </label>
+      <br />
+      <label for="email">
+        Email:
+        <input id="email" name="email" type="email" placeholder="Enter your email">
+      </label>
+      <br />
+      <label for="number">
+        Number:
+        <input id="number" name="number" type="number" placeholder="enter your phone number" required>
+      </label>
+      <br />
+      <label for="age">
+        Age:
+        <input id="age" name="age" type="number" min="18" placeholder="enter your age" required>
+      </label>
+      <br />
+      <label for="gender">
+        Gender:
+        <label for="male">
+          <input id="male" name="gender" value="male" type="radio">
+          M
+        </label>
+        <label for="female">
+          <input id="female" name="gender" value="female" type="radio">
+          F
+        </label>
+      </label>
+      <br />
+      <label for="birth">
+        Birth Day:
+        <input id="birth" name="birth" type="date">
+      </label>
+      <br />
+      <label for="about">
+        About:
+        <textarea name="about" id="about" cols="30" rows="4" placeholder="tell us about yourself"></textarea>
+      </label>
+      <br />
+
+      <button type="submit">Submit</button>
+    </form>
+  </main>
+  <script src="./js/index.js"></script>
+</body>
+</html>

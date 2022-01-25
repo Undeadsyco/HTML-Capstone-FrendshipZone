@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Marrya",
+      "email": "marrya@yourcompany.com",
+      "number": "55577855",
+      "age": "23",
+      "dob": "1998-09-23",
+      "about": "adventurous, likes to participate in bungee jumping",
+      "gender": "female"
+    },
+    {
+      "id": 2,
+      "name": "Adam",
+      "about": "likes music, reeds books",
+      "email": "adam@yourcompany.com",
+      "number": "55577744",
+      "age": "25",
+      "dob": "1996-08-10",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Brandon Santana",
+      "email": "bubblebutt199891@gmail.com",
+      "number": "3165530854",
+      "age": "23",
+      "dob": "1998-09-23",
+      "about": "nca xai veiw diwo afjb ajfn wjfwi cIBF AIBUF",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "Brandon",
+      "email": "bubblebutt199891@gmail.com",
+      "number": "2324184725",
+      "age": "23",
+      "dob": "1998-09-23",
+      "about": "qmoqucivwhiuvbwiuvwiuevbidbavuybvuyea"
+    },
+    {
+      "id": 5,
+      "name": "Kristen Stinnett",
+      "email": "Kristen.stinnett@washburn.edu",
+      "number": "2541253143",
+      "age": "25",
+      "dob": "1996-08-10",
+      "about": "ncwiuqhcuiwdvcyudbauwdbvyoewibv",
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "name": "tyler",
+      "email": "TylerSantana@gmail.com",
+      "number": "12451753255",
+      "age": "18",
+      "dob": "2003-04-09",
+      "about": "nfiqofniowanidfbiuwefhuwie",
+      "gender": "male"
+    },
+    {
+      "id": 7,
+      "name": "nicholas",
+      "email": "nick@gmail.com",
+      "number": "7368168932",
+      "age": "18",
+      "dob": "2004-05-04",
+      "about": "d wjibfidwbc whvbwc wifhw cwiefhwqfhw vcwuifw cewifbf v",
+      "gender": "male"
+    },
+    {
+      "id": 8,
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "number": "246546478",
+      "age": "35",
+      "dob": "1986-02-01",
+      "about": "niabfuiqbfuqisbfciuwe",
+      "gender": "male"
+    }
+  ]
+}
